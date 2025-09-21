@@ -9,7 +9,7 @@ Sou apaixonada por tecnologia e estou focada em desenvolver soluções que tenha
 
 🚀 **Minhas Tecnologias:**  
 - **Back-end:** Node.js, Express, MySQL  
-- **Front-end:** HTML, CSS, EJS, Bootstrap  
+- **Front-end:** HTML, CSS, React, Tailwind  
 
 💡 **Interesses:**  
 - Desenvolvimento web com foco em impacto social  
